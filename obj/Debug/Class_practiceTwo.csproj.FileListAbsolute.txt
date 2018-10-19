@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Class_practiceTwo\Class_practiceTwo\obj\Debug\Class_practiceTwo.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Class_practiceTwo\Class_practiceTwo\obj\Debug\Class_practiceTwo.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Class_practiceTwo\Class_practiceTwo\bin\Debug\Class_practiceTwo.exe.config
+C:\Users\Student\source\repos\Class_practiceTwo\Class_practiceTwo\bin\Debug\Class_practiceTwo.exe
+C:\Users\Student\source\repos\Class_practiceTwo\Class_practiceTwo\bin\Debug\Class_practiceTwo.pdb
+C:\Users\Student\source\repos\Class_practiceTwo\Class_practiceTwo\obj\Debug\Class_practiceTwo.exe
+C:\Users\Student\source\repos\Class_practiceTwo\Class_practiceTwo\obj\Debug\Class_practiceTwo.pdb
